@@ -1,0 +1,10 @@
+c:\users\tran\documents\visual studio 2017\Projects\Demo_MEF\Demo_MEF\bin\Release\Demo_MEF.exe.config
+c:\users\tran\documents\visual studio 2017\Projects\Demo_MEF\Demo_MEF\bin\Release\Demo_MEF.exe
+c:\users\tran\documents\visual studio 2017\Projects\Demo_MEF\Demo_MEF\bin\Release\Demo_MEF.pdb
+c:\users\tran\documents\visual studio 2017\Projects\Demo_MEF\Demo_MEF\bin\Release\CompositionHelper.dll
+c:\users\tran\documents\visual studio 2017\Projects\Demo_MEF\Demo_MEF\bin\Release\CalculatorContract.dll
+c:\users\tran\documents\visual studio 2017\Projects\Demo_MEF\Demo_MEF\bin\Release\CompositionHelper.pdb
+c:\users\tran\documents\visual studio 2017\Projects\Demo_MEF\Demo_MEF\bin\Release\CalculatorContract.pdb
+c:\users\tran\documents\visual studio 2017\Projects\Demo_MEF\Demo_MEF\obj\Release\Demo_MEF.csprojResolveAssemblyReference.cache
+c:\users\tran\documents\visual studio 2017\Projects\Demo_MEF\Demo_MEF\obj\Release\Demo_MEF.exe
+c:\users\tran\documents\visual studio 2017\Projects\Demo_MEF\Demo_MEF\obj\Release\Demo_MEF.pdb

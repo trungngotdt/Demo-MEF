@@ -1,0 +1,7 @@
+c:\Users\Tran\documents\visual studio 2017\Projects\Demo_MEF\CompositionHelper\bin\Release\CompositionHelper.dll
+c:\Users\Tran\documents\visual studio 2017\Projects\Demo_MEF\CompositionHelper\bin\Release\CompositionHelper.pdb
+c:\Users\Tran\documents\visual studio 2017\Projects\Demo_MEF\CompositionHelper\bin\Release\CalculatorContract.dll
+c:\Users\Tran\documents\visual studio 2017\Projects\Demo_MEF\CompositionHelper\bin\Release\CalculatorContract.pdb
+c:\Users\Tran\documents\visual studio 2017\Projects\Demo_MEF\CompositionHelper\obj\Release\CompositionHelper.csprojResolveAssemblyReference.cache
+c:\Users\Tran\documents\visual studio 2017\Projects\Demo_MEF\CompositionHelper\obj\Release\CompositionHelper.dll
+c:\Users\Tran\documents\visual studio 2017\Projects\Demo_MEF\CompositionHelper\obj\Release\CompositionHelper.pdb

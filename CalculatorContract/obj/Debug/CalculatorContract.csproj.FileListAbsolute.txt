@@ -1,0 +1,4 @@
+c:\Users\Tran\documents\visual studio 2017\Projects\Demo_MEF\CalculatorContract\bin\Debug\CalculatorContract.dll
+c:\Users\Tran\documents\visual studio 2017\Projects\Demo_MEF\CalculatorContract\bin\Debug\CalculatorContract.pdb
+c:\Users\Tran\documents\visual studio 2017\Projects\Demo_MEF\CalculatorContract\obj\Debug\CalculatorContract.dll
+c:\Users\Tran\documents\visual studio 2017\Projects\Demo_MEF\CalculatorContract\obj\Debug\CalculatorContract.pdb
