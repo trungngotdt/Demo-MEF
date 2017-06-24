@@ -9,6 +9,7 @@ using CalculatorContract;
 using System.ComponentModel.Composition.Hosting;
 using System.Reflection;
 using System.IO;
+using System.ComponentModel.Composition.Primitives;
 
 namespace CompositionHelper
 {
@@ -32,7 +33,7 @@ namespace CompositionHelper
                 //        System.ComponentModel.Composition.Hosting.AssemblyCatalog  
                 //        class with the current executing assembly.
                 var catalog = new AssemblyCatalog(Assembly.GetExecutingAssembly());
-
+                
                 //Step 2: The assemblies obtained in step 1 are added to the 
                 //CompositionContainer
                 var container = new CompositionContainer(catalog);

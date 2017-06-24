@@ -43,13 +43,13 @@ namespace Demo_MEF
         int a = 0;
         [Import]
         public ConsoleLogger Logger { get; set; }
-
+        
         static void Main(string[] args)
         {
             Program p = new Program();
             CompositionContainer container =
             new CompositionContainer(new AssemblyCatalog(Assembly.GetExecutingAssembly()));
-
+            
             container.ComposeParts(p);
             p.Logger.Log("This is a test");
         }
